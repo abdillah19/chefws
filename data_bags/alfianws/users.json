@@ -1,0 +1,10 @@
+{
+  "id": "users",
+  "users": {
+    "encrypted_data": "Z1N0kVuLg/LogfhlkkX/BraTep3HyFh2TQwH3MYQxg+jdWFNk0R+5uiye6XU\nTHWBBhwpPajICOLW6FK6JQkW6pWt2V51o3F2y1GZxDz5ER+IjpW1CS4UkT7U\nv3KDfejH4yEwRM0ay0SjbaWOUWeaYyd+/ngbXCay5iOx7IBF0+B1/qJCtmjF\nOmRQn+BdlPVaKecDECodRu/HmafYnqFTkmcmyZdXOhizn5hy1l62wB8ZaDAY\n7GPmn5uJSabLcWtJHyfOrth8SS2Q+Sx1r0lC+Av8sQL5vF/efg2mWjCv9Fek\n3Idi/62wMupvgliGnXSMsGB2lTIeihFfbux31bnfjPndKgpBtlgA/ptXak1x\nlD0IYUvKlKU1U7ZYNGu9AQLQyxd//WNSNdZVLokhQQjJOA==\n",
+    "hmac": "1K5ymR2VQhpEZ3jlrqzAikLbHilcE6gE/Es14obhd+g=\n",
+    "iv": "+1FalMVdF5SVkSo8ap8o8Q==\n",
+    "version": 2,
+    "cipher": "aes-256-cbc"
+  }
+}
